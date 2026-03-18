@@ -1,0 +1,1 @@
+# DiagnosticoHTML-DisenoAplicaciones
